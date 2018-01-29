@@ -1,0 +1,4 @@
+a5e313,127.0.0.1,GET,http://localhost:8001/,1517237161,ae5081,200
+ae5081,127.0.0.1,GET,http://localhost:8001/,1517237161,,404
+d8f32c,127.0.0.1,GET,http://localhost:8001/favicon.ico,1517237162,b689a8,200
+b689a8,127.0.0.1,GET,http://localhost:8001/favicon.ico,1517237162,,404
